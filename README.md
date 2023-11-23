@@ -12,6 +12,25 @@ This repository contains the backend module for the HeyDaw software subscription
 
 4. **Bonus Task - Coupon Code System:** Incorporated a feature allowing a 50% discount on subscriptions through valid coupon codes.
 
+
+![heydaw2](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/66377497-6d3f-41fb-b15b-e25c9d39a986)
+
+![heydaw3](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/10cd9128-8b56-4d6f-8850-74078eba1fa7)
+
+Stripe Dashboard Payment successful 
+
+![heydaw](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/1ed2e9a5-a177-40d4-81dd-e5ec39bc136d)
+
+Server deployed on render.com
+
+![heydaw4](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/c4331877-77b4-4360-8b0f-a18a7363e059)
+
+Frontend Deployed on Netlify
+
+![heydaw5](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/686581c1-00aa-4d6e-b29a-1fb863bb9dce)
+
+
+
 ## Project Structure
 
 - `/server`: Contains backend code for payment processing and database management.
@@ -30,4 +49,4 @@ This repository contains the backend module for the HeyDaw software subscription
 
 ## Contributors
 
-- ([Mohammad Avez](https://github.com/avezqureshi14)): 
+- [Mohammad Avez](https://github.com/avezqureshi14): 

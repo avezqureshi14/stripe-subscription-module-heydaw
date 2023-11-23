@@ -18,7 +18,7 @@ const PaymentForm = () => {
                 card: elements.getElement(CardElement),
             });
 
-            const response = await fetch('https://avez-heydaw.onrender.com/api/subscribe', {
+            const response = await fetch('http://localhost:8800/api/subscribe', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -45,7 +45,7 @@ const PaymentForm = () => {
                 setLoading(false); 
                 return;
             }
-
+            
             message.success('Payment successful! Thanks for subscribing');
         } catch (error) {
             console.log(error);

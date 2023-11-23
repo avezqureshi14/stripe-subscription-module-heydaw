@@ -8,7 +8,7 @@ This repository contains the backend module for the HeyDaw software subscription
    
 2. **Database Management:** Utilized MongoDB to store and manage subscription details, coupon codes, and payment records.
 
-3. **Frontend Development:** Developed a straightforward frontend interface using React/Next.js, facilitating payment processing and displaying subscription details.
+3. **Frontend Development:** Developed a straightforward frontend interface using React, facilitating payment processing and displaying subscription details.
 
 4. **Bonus Task - Coupon Code System:** Incorporated a feature allowing a 50% discount on subscriptions through valid coupon codes.
 

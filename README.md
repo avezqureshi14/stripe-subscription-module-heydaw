@@ -21,6 +21,10 @@ Stripe Dashboard Payment successful
 
 ![heydaw](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/1ed2e9a5-a177-40d4-81dd-e5ec39bc136d)
 
+Payment details also taken into our MongoDB database
+
+![heydawsubs](https://github.com/avezqureshi14/avez-blog/assets/95353195/bbf40b75-520c-4900-8758-1609e15cc138)
+
 Server deployed on render.com
 
 ![heydaw4](https://github.com/avezqureshi14/avez-2023-end/assets/95353195/c4331877-77b4-4360-8b0f-a18a7363e059)
